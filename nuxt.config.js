@@ -29,5 +29,8 @@ export default theme({
 		base: '/jeff-blog/'
 	},
 	buildModules: [
-	]
+	],
+	build: {
+		publicPath: 'https://u10210018.github.io/jeff-blog'
+	},
 })
