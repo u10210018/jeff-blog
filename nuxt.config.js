@@ -25,6 +25,9 @@ export default theme({
 			silentTranslationWarn: true,
 		}
 	},
+	router: {
+		base: '/jeff-blog/'
+	},
 	buildModules: [
 	]
 })
