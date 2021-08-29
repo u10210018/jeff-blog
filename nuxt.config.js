@@ -1,4 +1,5 @@
 import theme from '@nuxt/content-theme-docs';
+const { resolve } = require('path');
 
 export default theme({
 	docs: {
@@ -17,6 +18,7 @@ export default theme({
 			file: 'en-US.js',
 			name: 'English'
 		}],
+		langDir: resolve(__dirname, 'lang/'),
 		defaultLocale: 'zh-TW',
 		vueI18n: {
 			fallbackLocale: 'zh-TW',
