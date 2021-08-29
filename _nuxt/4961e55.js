@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{158:function(t,c,e){"use strict";c.a={search:{placeholder:"搜尋文章（按 “/” 聚焦）"},toc:{title:"此頁面"},article:{github:"在 GitHub 上編輯此頁面"}}},165:function(t,c,e){e(166),t.exports=e(167)}},[[165,25,2,26]]]);
